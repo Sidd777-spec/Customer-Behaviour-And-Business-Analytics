@@ -59,7 +59,28 @@ This raw dataset is stored in the `raw_data` folder.
 * **Git & GitHub** — project version control and documentation
 
 
+```text
+<div align = "center">
 
+### Project Workflow
+
+
+**Raw Data**
+↓  
+**Database Setup**
+↓
+**Data Import**
+↓
+**Data Quality Analysis**
+↓
+**Business Analysis**
+↓
+**Business Insights**
+↓
+**Recommendations**
+
+</div>
+```
 
 ## Data Quality & Preparation
 
