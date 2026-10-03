@@ -144,7 +144,7 @@ Detailed recommendations are available in [`business_recommendations.md`](busine
 
 ## Repository Structure
 
-
+```text
 Retail-Sales-Business-Analysis/
 │
 ├── raw_data/
@@ -165,7 +165,7 @@ Retail-Sales-Business-Analysis/
 ├── business_insights.md
 ├── business_recommendations.md
 └── README.md
-
+```
 
 
 ## Conclusion
