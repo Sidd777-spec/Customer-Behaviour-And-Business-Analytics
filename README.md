@@ -1,6 +1,6 @@
 
 
-# Retail Sales Business Analysis
+# Customer Behaviour & Business Analytics
 
 
 
